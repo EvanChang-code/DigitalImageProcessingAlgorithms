@@ -34,7 +34,7 @@ int main(){
 	uchar temple[9] = {1,1,1,1,1,1,1,1,1}; //定义模板
 
 
-	image = imread("H:\\ZHANGLI_A_B_C\\Opencv\\images\\baidu1.jpg",0);
+	image = imread(" xxx \\baidu1.jpg",0);
 	image.copyTo(copyImage);
 	cout << copyImage.depth() << ";" << copyImage.rows << ";" << copyImage.cols << endl; //查看图像信息
 
