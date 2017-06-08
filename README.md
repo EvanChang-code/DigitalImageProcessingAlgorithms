@@ -9,3 +9,6 @@
 
 ## [使用掩模对图像邻域进行运算](https://github.com/EvanChang-code/DigitalImageProcessingAlgorithms/blob/master/%E4%BD%BF%E7%94%A8%E6%8E%A9%E6%A8%A1%E5%AF%B9%E5%9B%BE%E5%83%8F%E9%82%BB%E5%9F%9F%E8%BF%9B%E8%A1%8C%E8%BF%90%E7%AE%97.cpp)
 * 应用于灰度图像
+
+## [平滑空间滤波器]()
+* 模板（掩模）为`temple[9] = {1,1,1,1,1,1,1,1,1}`
